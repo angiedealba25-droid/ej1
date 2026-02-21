@@ -1,0 +1,3 @@
+streamlit
+potly
+pandas
